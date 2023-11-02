@@ -6,3 +6,4 @@ Here are some snapshots of my project.
 ![Screenshot (34)](https://github.com/Adi-pal-developer/fetch/assets/144885498/50396bb9-3e98-405d-889d-9dca32acbcec)
 ![Screenshot (37)](https://github.com/Adi-pal-developer/fetch/assets/144885498/21efb144-e418-4cac-9fde-c22fafc10d7b)
 ![Screenshot (36)](https://github.com/Adi-pal-developer/fetch/assets/144885498/9bffba59-048a-4d23-84ef-81525262ac5e)
+![Screenshot (38)](https://github.com/Adi-pal-developer/fetch/assets/144885498/b26a7724-13a6-4cb3-99ba-6988f5eac9b1)
