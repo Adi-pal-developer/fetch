@@ -1,0 +1,38 @@
+.items {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 90px;
+
+
+}
+
+.cardssss {
+  padding: 40px;
+  margin: 40px;
+  margin-left: 60px;
+  height: 600px;
+
+
+}
+
+.card-title {
+  font-weight: bolder
+}
+
+.card-body h5,
+p,
+h3 {
+  padding-top: 10px;
+}
+
+.prod {
+  margin-left: 550px;
+  font-size: 3rem;
+  font-weight: 600;
+
+
+}
+
+.card-img-top {
+  height: 200px
+}

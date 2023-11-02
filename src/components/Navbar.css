@@ -1,0 +1,30 @@
+.nav1 {
+    position: relative;
+    margin-left: 200px;
+    left: 200px;
+    bottom: 30px;
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.div1 {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+
+    /* margin-bottom: 100px; */
+
+}
+
+.div1 {
+    background-color: rgb(35, 47, 62);
+    color: white;
+    width: 100%;
+}
+
+.amazon {
+    position: relative;
+    top: 20px;
+}
